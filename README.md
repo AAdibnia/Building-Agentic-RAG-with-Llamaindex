@@ -1,12 +1,6 @@
 # Building-Agentic-RAG-with-Llamaindex
 
-# Building Agentic RAG with LlamaIndex - Course Notebooks
-
 This repository contains Jupyter notebooks and completed assignments from the DeepLearning.AI course, "**Building Agentic RAG with LlamaIndex**." This specialized course focuses on the cutting-edge intersection of Retrieval Augmented Generation (RAG) and AI agents, demonstrating how to build sophisticated, intelligent systems that can dynamically interact with and reason over diverse knowledge bases.
-
-## Course Overview:
-
-This DeepLearning.AI short course, taught by **Jerry Liu (CEO of LlamaIndex)**, delves into advanced RAG patterns beyond simple retrieval. It explores the principles of agentic behavior within RAG workflows, enabling LLMs to make decisions about how to query and synthesize information from multiple sources.
 
 ## Skills Demonstrated & Key Learnings:
 
@@ -85,6 +79,5 @@ To run these notebooks locally, ensure you have Python 3.9+ installed. You will 
 ## Connect with Me:
 
 * [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-* [Your Personal Website/Portfolio (Optional)](https://www.yourwebsite.com)
 
 ---
