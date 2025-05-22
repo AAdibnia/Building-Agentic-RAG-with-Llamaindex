@@ -78,6 +78,6 @@ To run these notebooks locally, ensure you have Python 3.9+ installed. You will 
 
 ## Connect with Me:
 
-* [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+* [Your LinkedIn Profile](https://www.linkedin.com/in/ali-adibnia)
 
 ---
